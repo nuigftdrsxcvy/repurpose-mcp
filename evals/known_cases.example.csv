@@ -1,0 +1,8 @@
+disease,expected_drug,disease_id,expected_chembl_id,notes
+lymphangioleiomyomatosis,sirolimus,MONDO_0011705,CHEMBL413,EXAMPLE (unverified): transplant drug later approved for LAM
+infantile hemangioma,propranolol,,,EXAMPLE (unverified): beta-blocker repurposed for infantile haemangioma
+multiple myeloma,thalidomide,,,EXAMPLE (unverified): sedative repurposed for myeloma
+pulmonary arterial hypertension,sildenafil,,,EXAMPLE (unverified): PDE5 inhibitor repurposed for PAH
+tuberous sclerosis,everolimus,,,EXAMPLE (unverified): mTOR inhibitor for TSC manifestations
+hereditary hemorrhagic telangiectasia,pomalidomide,,,EXAMPLE (unverified): myeloma drug trialled in HHT bleeding
+Marfan syndrome,losartan,,,EXAMPLE (unverified): ARB trialled for aortic dilation; mixed results

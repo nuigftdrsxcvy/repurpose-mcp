@@ -1,0 +1,8 @@
+disease,expected_drug,disease_id,expected_chembl_id,case_type,source,notes
+lymphangioleiomyomatosis,sirolimus,MONDO_0011705,CHEMBL413,approved,"MILES trial NCT00414648 (NEJM 2011); FDA approval May 2015","Verified 2026-11-17. Transplant immunosuppressant (mTOR inhibitor) approved for LAM"
+infantile hemangioma,propranolol,MONDO_0002407,,approved,"Leaute-Labreze NEJM 2008 PMID:18550886; RCT NEJM 2015 doi:10.1056/NEJMoa1404710; FDA approved as Hemangeol","Verified 2026-11-17. MONDO_0002407 is capillary hemangioma, which lists infantile hemangioma as a synonym. Pinned so the eval is deterministic"
+multiple myeloma,thalidomide,MONDO_0009693,,approved,"Singhal NEJM 1999 doi:10.1056/NEJM199911183412102; FDA approval 2006","Verified 2026-11-17. Withdrawn sedative repurposed via anti-angiogenic/immunomodulatory activity"
+pulmonary arterial hypertension,sildenafil,MONDO_0015924,,approved,"SUPER-1 Galie NEJM 2005 PMID:16291984; FDA/EMEA approval 2005","Verified 2026-11-17. PDE5 inhibitor first developed for angina, then ED"
+tuberous sclerosis,everolimus,MONDO_0001734,,approved,"EXIST-3 NCT01713946; FDA approval for TSC seizures April 2018 (also SEGA and renal angiomyolipoma)","Verified 2026-11-17. mTOR inhibitor first approved for transplant and oncology"
+hereditary hemorrhagic telangiectasia,pomalidomide,MONDO_0019180,,positive_trial,"PATH-HHT NCT03910244; Al-Samkari NEJM 2024 PMID:39292928","Verified 2026-11-17. Positive phase 2 RCT, not approved for HHT"
+Marfan syndrome,losartan,MONDO_0007947,,trialled_negative,"Lacro NEJM 2014 doi:10.1056/NEJMoa1404731","Verified 2026-11-17. Plausible hypothesis that was tested; no difference vs atenolol in aortic root growth. Counts as a hit for hypothesis generation, not as a success"

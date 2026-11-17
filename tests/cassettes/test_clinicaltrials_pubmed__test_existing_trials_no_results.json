@@ -1,0 +1,7 @@
+{
+ "GET clinicaltrials.gov/api/v2/studies?countTotal=true&fields=NCTId%2CBriefTitle%2CPhase%2COverallStatus%2CEnrollmentCount%2CEnrollmentType%2CStartDate&pageSize=25&query.cond=lymphangioleiomyomatosis&query.intr=paracetamol -": {
+  "body": "{\"totalCount\":0,\"studies\":[\n\n]}",
+  "content_type": "application/json",
+  "status": 200
+ }
+}

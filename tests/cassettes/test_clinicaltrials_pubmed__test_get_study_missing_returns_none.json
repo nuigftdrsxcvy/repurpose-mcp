@@ -1,0 +1,7 @@
+{
+ "GET clinicaltrials.gov/api/v2/studies/NCT09999999?format=json -": {
+  "body": "NCT number NCT09999999 not found",
+  "content_type": "text/plain; charset=UTF-8",
+  "status": 404
+ }
+}
